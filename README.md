@@ -19,11 +19,11 @@ Generate invoices · Manage billing history · Preview & export PDF receipts · 
 
 <div align="center">
 
-[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Y5tUlM3GmgzcVTTxZ8AceSgmyapNobq-/view?usp=drive_link)
-
+[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1Y5tUlM3GmgzcVTTxZ8AceSgmyapNobq-/view?usp=drive_link](https://drive.google.com/file/d/1m2m0YP-W5QiZNOMvxJmeP4EtPYnbh7Iz/view?usp=sharing))
 </div>
 
 > Click the button above to watch the full demo video of the app in action.
+> https://drive.google.com/file/d/1m2m0YP-W5QiZNOMvxJmeP4EtPYnbh7Iz/view?usp=sharing
 
 ---
 
