@@ -190,6 +190,7 @@ gradlew assembleDebug
 
 ##  Deliverables
 
+
 - ✅ GitHub Repository
 - ✅ README Documentation
 - ✅ APK Build
@@ -207,6 +208,6 @@ gradlew assembleDebug
 
 <div align="center">
 
-Made with ❤️ using React Native & Redux Toolkit
+Made with ❤️ using React Native & Redux Toolkit   
 
 </div>
